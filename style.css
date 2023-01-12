@@ -78,14 +78,14 @@ h6{font-family: Barlow Semi Condensed; font-weight: 500 600}
 .horizontal {margin: 0 auto; width:100% } 
 .container{padding: 0;}
 
-.caixa-direita{margin:-25px;padding: 0; margin-bottom: 0}
+.caixa-direita{padding: 0; margin-bottom: 0}
 .caixa-direita p{color: hsl(217, 19%, 35%)}
 
 .caixa1{background-origin: content-box ; background-image: url(./images/bg-pattern-quotation.svg); background-repeat: no-repeat; background-position-x: right; background-color: hsl(263, 55%, 52%);  padding: 30px; border: none; border-radius: 3%;margin-right: 20px; margin-bottom: 20px;margin-top: 50px}
 .caixa2{background-color: hsl(217, 19%, 35%);   padding: 30px; border: none; border-radius: 3%;margin-right: 20px;margin-bottom: 20px;margin-top: 50px}
 .caixa3{background-color: hsl(0, 0%, 100%);   padding: 30px; border: none; border-radius: 3%;margin-right: 20px; }
 .caixa4{background-color: hsl(219, 29%, 14%);   padding: 30px;  border: none; border-radius: 3%;margin-right: 20px;}
-.caixa-direita{height: 580px;background-color: hsl(0, 0%, 100%); padding: 35px; margin-top: 50px;margin-bottom: 50px;border: none; border-radius: 3%;}
+.caixa-direita{background-color: hsl(0, 0%, 100%); padding: 30px; margin-top: 50px;margin-bottom: 50px;border: none; border-radius: 3%;}
 .espaco2{margin: 0px; padding: 0}
 
 .caixa-imagem{margin-bottom: 15px;}
@@ -124,11 +124,11 @@ h6{font-family: Barlow Semi Condensed; font-weight: 500 600}
 .caixa-direita{margin:-25px;padding: 0; margin-bottom: 0}
 .caixa-direita p{color: hsl(217, 19%, 35%)}
 
-.caixa1{height: 280px; width: 200px;  background-origin: content-box ; background-image: url(./images/bg-pattern-quotation.svg); background-repeat: no-repeat; background-position-x: right; background-color: hsl(263, 55%, 52%);  padding: 30px; border: none; border-radius: 3%;margin-right: 20px; margin-bottom: 20px;margin-top: 50px}
-.caixa2{height: 280px; background-color: hsl(217, 19%, 35%);   padding: 30px; border: none; border-radius: 3%;margin-right: 20px;margin-bottom: 20px;margin-top: 50px}
-.caixa3{height: 280px; background-color: hsl(0, 0%, 100%);   padding: 30px; border: none; border-radius: 3%;margin-right: 20px; }
-.caixa4{height: 280px; background-color: hsl(219, 29%, 14%);   padding: 30px;  border: none; border-radius: 3%;margin-right: 20px;}
-.caixa-direita{height: 580px;background-color: hsl(0, 0%, 100%); padding: 35px; margin-top: 50px;margin-bottom: 50px;border: none; border-radius: 3%;}
+.caixa1{background-origin: content-box ; background-image: url(./images/bg-pattern-quotation.svg); background-repeat: no-repeat; background-position-x: right; background-color: hsl(263, 55%, 52%);  padding: 30px; border: none; border-radius: 3%;margin-right: 20px; margin-bottom: 20px;margin-top: 50px}
+.caixa2{background-color: hsl(217, 19%, 35%);   padding: 30px; border: none; border-radius: 3%;margin-right: 20px;margin-bottom: 20px;margin-top: 50px}
+.caixa3{background-color: hsl(0, 0%, 100%);   padding: 30px; border: none; border-radius: 3%;margin-right: 20px; }
+.caixa4{background-color: hsl(219, 29%, 14%);   padding: 30px;  border: none; border-radius: 3%;margin-right: 20px;}
+.caixa-direita{background-color: hsl(0, 0%, 100%); padding: 35px; margin-top: 50px;margin-bottom: 50px;border: none; border-radius: 3%;}
 
 .caixa-imagem{margin-bottom: 15px;}
 .caixa-imagem h5{color: hsl(0, 0%, 100%) ; font-size: 13px}
